@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlphaAnas
 - 👀 I’m interested to learn and help in learning..!
-- 🌱 I’m currently learning C# and C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, C# and C++ 
+- 💞️ I’m looking to collaborate on projects which enhance learning.
 - 📫 How to reach me :muhd.anas70pe@gmail.com
 
 <!---
