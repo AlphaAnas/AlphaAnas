@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @AlphaAnas
-- 👀 I’m interested to learn and help in learning..!
-- 🌱 I’m currently learning Python, C# and C++ 
-- 💞️ I’m looking to collaborate on projects which enhance learning.
-- 📫 How to reach me :muhd.anas70pe@gmail.com
+Code, Coffee, and Curiosity ☕🧠
+🎓 CS @ Habib University | 💥 AI/LLMs & Full-Stack Dev
 
-<!---
-AlphaAnas/AlphaAnas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔥 ML @ Toyota IMC | NLP/Invoice Extraction @ ISL 
+🧠 Building Deep Learning, LLM and Computer Vision models
+🌐 Working with React, Next.js, Tailwind, Firebase, PyTorch, and OpenCV
+
+👨🏻‍🏫 Teaching kids Python @ [CodeSchool.pk](https://www.codeschool.pk/))
+💬 Love working at the intersection of AI and real-world apps
+
+🔍 Always learning, building, and experimenting
+📫 Let’s connect → [LinkedIn](https://www.linkedin.com/in/muhammad-anas-355ab5260/) | muhammad.anas02@hotmail.com
