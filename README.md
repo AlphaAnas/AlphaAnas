@@ -4,10 +4,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/[your-username]">
-    <img src="https://img.shields.io/github/followers/[your-username]?label=Followers&style=social" alt="GitHub followers">
+  <a href="https://github.com/AlphaAnas">
+    <img src="https://img.shields.io/github/followers/AlphaAnas?label=Followers&style=social" alt="GitHub followers">
   </a>
-  <a href="#">
+  <a href="https://linkedin.com/in/anasalpha">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
   </a>
 </div>
@@ -49,16 +49,16 @@ I am a Computer Science undergraduate and AI Researcher committed to building re
 
 <div align="center">
   <!-- Activity Graph to show your commit history visually -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[your-username]&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaAnas&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlphaAnas&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaAnas&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
 </div>
 
 ---
