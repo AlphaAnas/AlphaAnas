@@ -18,7 +18,6 @@ I am a Computer Science undergraduate and AI Researcher committed to building re
 
 ## 🔬 Publications & Research
 
-*Scholarships and research programs highly value published academic work. Here is my latest contribution to the field of AI and NLP:*
 
 *   📄 **[CLEF 2025: Working Notes](https://ceur-ws.org/Vol-4038/paper_73.pdf)**
     *   **Focus:** Fine-tuned Large Language Models for subjectivity classification using advanced NLP techniques. 
@@ -26,7 +25,6 @@ I am a Computer Science undergraduate and AI Researcher committed to building re
 
 ## 🛠️ Technical Arsenal
 
-*What I use to bring ideas to production:*
 
 **AI & Data Science:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-gray.svg?style=flat-square&logo=chainlink) ![LLMs](https://img.shields.io/badge/LLMs-Prompt_Engineering-blue.svg?style=flat-square) 
@@ -45,7 +43,6 @@ I am a Computer Science undergraduate and AI Researcher committed to building re
 
 ## 📊 GitHub Analytics & Activity
 
-*A visual representation of my open-source contributions, commit consistency, and top languages.*
 
 <div align="center">
   <!-- Activity Graph (This one is still working!) -->
