@@ -48,19 +48,16 @@ I am a Computer Science undergraduate and AI Researcher committed to building re
 *A visual representation of my open-source contributions, commit consistency, and top languages.*
 
 <div align="center">
-  <!-- Activity Graph to show your commit history visually -->
+  <!-- Activity Graph (This one is still working!) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaAnas&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AlphaAnas&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaAnas&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <!-- GitHub Streak Stats (Hosted on Heroku, very stable) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaAnas&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
 ---
 <div align="center">
   <i>"Code, Coffee, and Curiosity ☕🧠 Always learning, building, and pushing boundaries."</i>
