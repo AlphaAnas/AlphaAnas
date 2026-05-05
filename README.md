@@ -55,8 +55,7 @@ I am a Computer Science undergraduate and AI Researcher committed to building re
 <br/>
 
 <div align="center">
-  <!-- GitHub Streak Stats (Hosted on Heroku, very stable) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaAnas&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlphaAnas&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 ---
 <div align="center">
