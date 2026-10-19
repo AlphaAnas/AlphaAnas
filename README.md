@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://alphaanas.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:alphaanas.dev@gmail.com">
@@ -24,7 +24,7 @@
 
 <br />
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a Computer Scientist and Software Developer focused on building practical AI systems, scalable backend services, and developer-friendly infrastructure.
 
@@ -39,7 +39,7 @@ I currently work as a **Software Developer (AI) at a fintech company**, where I 
 
 My interests include AI Agent observability, LLM optimization, backend engineering, distributed systems, and applied research.
 
-## 🚀 What I Do
+## What I Do
 
 - Build production-ready AI agents and LLM-powered applications
 - Design backend services and automation pipelines with Python and FastAPI
@@ -49,7 +49,7 @@ My interests include AI Agent observability, LLM optimization, backend engineeri
 - Research LLM optimization, model compression, and efficient AI systems
 - Work on computer vision, NLP, and applied deep learning projects
 
-## 🧠 Technical Stack
+## Technical Stack
 
 ### AI, Machine Learning & Research
 
@@ -86,7 +86,7 @@ My interests include AI Agent observability, LLM optimization, backend engineeri
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## 🔬 Publications & Research
+##  Publications & Research
 
 I have worked on research involving NLP, legal judgment prediction, fact-checking, and efficient LLMs.
 
@@ -98,23 +98,6 @@ I have worked on research involving NLP, legal judgment prediction, fact-checkin
 
 - 📄 **Efficient LLM Compression for Llama-3B**  
   Investigated pruning, knowledge distillation, and post-training quantization, achieving a reported **5.7× compression ratio**.
-
-## 🛠️ Selected Projects
-
-- **AI Proposal and RFP Automation**  
-  AI-assisted workflow for analyzing requirements, retrieving approved documentation, generating grounded responses, and producing structured proposal drafts.
-
-- **ProposalGuard**  
-  Secure RAG application with LLM security guardrails, prompt-injection protection, and adversarial testing capabilities.
-
-- **Real-Time AI Surveillance System**  
-  Computer-vision monitoring system using Python, OpenCV, React, WebRTC, and automated incident alerting.
-
-- **OCR and Document Intelligence Applications**  
-  Deep-learning-based systems for extracting structured information from invoices and business documents.
-
-- **AI Agent Applications**  
-  Multilingual, API-integrated agents capable of handling large-scale conversations and automated workflows.
 
 ## 📊 GitHub Analytics
 
@@ -143,10 +126,8 @@ I have worked on research involving NLP, legal judgment prediction, fact-checkin
 
 I am always open to conversations about AI engineering, backend systems, observability, research, and interesting technical opportunities.
 
-- 🌐 Portfolio: **YOUR_PORTFOLIO_URL**
+- 🌐 Portfolio: **https://alphaanas.me**
 - 📧 Email: **alphaanas.dev@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/anasalpha](https://www.linkedin.com/in/anasalpha/)
-- 🐙 GitHub: [github.com/AlphaAnas](https://github.com/AlphaAnas)
 - 📝 Medium: [@muhd.anas70pe](https://medium.com/@muhd.anas70pe)
 
 <br />
