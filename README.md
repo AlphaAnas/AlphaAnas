@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://alphaanas.dev">
+  <a href="https://alphaanas.me">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:alphaanas.dev@gmail.com">
