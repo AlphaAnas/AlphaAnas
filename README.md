@@ -1,60 +1,156 @@
 <div align="center">
-  <h1>Hi, I'm an AI & Backend Engineer 🚀</h1>
-  <p><b>Bridging the gap between Deep Learning Research and Scalable Enterprise Systems</b></p>
+  <h1>Hi, I'm Muhammad Anas 👋</h1>
+  <h3>Software Developer (AI) • Backend Engineer • AI Researcher</h3>
+  <p>
+    Building AI automations, agentic systems, and reliable observability infrastructure
+    for real-world applications.
+  </p>
 </div>
 
 <div align="center">
-  <a href="https://github.com/AlphaAnas">
-    <img src="https://img.shields.io/github/followers/AlphaAnas?label=Followers&style=social" alt="GitHub followers">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/anasalpha">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
+  <a href="mailto:alphaanas.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/anasalpha/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/AlphaAnas">
+    <img src="https://img.shields.io/badge/GitHub-AlphaAnas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
 
-<br/>
+<br />
 
-I am a Computer Science undergraduate and AI Researcher committed to building reliable, well-crafted systems. My work spans across LLM-powered applications, distributed backends, and advanced NLP research. I am passionate about creating tech that has real-world impact, grounded in ethical responsibility.
+## 👨‍💻 About Me
+
+I am a Computer Scientist and Software Developer focused on building practical AI systems, scalable backend services, and developer-friendly infrastructure.
+
+I currently work as a **Software Developer (AI) at a fintech company**, where I build AI automations and implement observability systems across:
+
+- Logs
+- Traces
+- Metrics
+- AI agents
+- LLM-powered workflows
+- Enterprise backend services
+
+My interests include AI Agent observability, LLM optimization, backend engineering, distributed systems, and applied research.
+
+## 🚀 What I Do
+
+- Build production-ready AI agents and LLM-powered applications
+- Design backend services and automation pipelines with Python and FastAPI
+- Implement observability using Grafana, Prometheus, OpenTelemetry, and related tooling
+- Develop RAG systems, vector-search workflows, and retrieval pipelines
+- Integrate external services such as Twilio, Vapi, GHL, and other APIs
+- Research LLM optimization, model compression, and efficient AI systems
+- Work on computer vision, NLP, and applied deep learning projects
+
+## 🧠 Technical Stack
+
+### AI, Machine Learning & Research
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Prompt%20Engineering-412991?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A5ACD?style=flat-square)
+
+### Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-APIs-02569B?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+
+### Observability & Infrastructure
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Frontend & Databases
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ## 🔬 Publications & Research
 
+I have worked on research involving NLP, legal judgment prediction, fact-checking, and efficient LLMs.
 
-*   📄 **[CLEF 2025: Working Notes](https://ceur-ws.org/Vol-4038/paper_73.pdf)**
-    *   **Focus:** Fine-tuned Large Language Models for subjectivity classification using advanced NLP techniques. 
-    *   **Impact:** Contributed to the broader understanding of how LLMs process and categorize subjective data in complex datasets.
+- 📄 **Investigators at CheckThat! 2025**  
+  Research on automated fact-checking, rumor detection, and claim verification using language models.
 
-## 🛠️ Technical Arsenal
+- 📄 **Legal Judgement Prediction using Deep Learning**  
+  Applied deep learning techniques to legal corpora for predicting judicial outcomes.
 
+- 📄 **Efficient LLM Compression for Llama-3B**  
+  Investigated pruning, knowledge distillation, and post-training quantization, achieving a reported **5.7× compression ratio**.
 
-**AI & Data Science:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-gray.svg?style=flat-square&logo=chainlink) ![LLMs](https://img.shields.io/badge/LLMs-Prompt_Engineering-blue.svg?style=flat-square) 
+## 🛠️ Selected Projects
 
-**Backend & Infrastructure:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+- **AI Proposal and RFP Automation**  
+  AI-assisted workflow for analyzing requirements, retrieving approved documentation, generating grounded responses, and producing structured proposal drafts.
 
-**Frontend & Databases:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+- **ProposalGuard**  
+  Secure RAG application with LLM security guardrails, prompt-injection protection, and adversarial testing capabilities.
 
-## 💡 What I Do
+- **Real-Time AI Surveillance System**  
+  Computer-vision monitoring system using Python, OpenCV, React, WebRTC, and automated incident alerting.
 
-- **Enterprise AI:** Building scalable, asynchronous backend pipelines (FastAPI/Celery) and RAG applications for high-concurrency environments.
-- **Deep Learning Research:** Fine-tuning transformer models (GPT, T5, BART) for complex predictive tasks.
-- **Community Mentorship:** Empowering the next generation of developers by teaching Python and foundational programming.
+- **OCR and Document Intelligence Applications**  
+  Deep-learning-based systems for extracting structured information from invoices and business documents.
 
-## 📊 GitHub Analytics & Activity
+- **AI Agent Applications**  
+  Multilingual, API-integrated agents capable of handling large-scale conversations and automated workflows.
 
+## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Activity Graph (This one is still working!) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaAnas&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AlphaAnas&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="Muhammad Anas' GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaAnas&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top languages"
+  />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlphaAnas&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaAnas&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+    alt="GitHub activity graph"
+    width="100%"
+  />
 </div>
----
+
+## 📫 Let's Connect
+
+I am always open to conversations about AI engineering, backend systems, observability, research, and interesting technical opportunities.
+
+- 🌐 Portfolio: **YOUR_PORTFOLIO_URL**
+- 📧 Email: **alphaanas.dev@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/anasalpha](https://www.linkedin.com/in/anasalpha/)
+- 🐙 GitHub: [github.com/AlphaAnas](https://github.com/AlphaAnas)
+- 📝 Medium: [@muhd.anas70pe](https://medium.com/@muhd.anas70pe)
+
+<br />
+
 <div align="center">
-  <i>"Code, Coffee, and Curiosity ☕🧠 Always learning, building, and pushing boundaries."</i>
+  <i>Code, coffee, and curiosity — always learning, building, and improving. ☕🧠</i>
 </div>
